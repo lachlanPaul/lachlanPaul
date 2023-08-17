@@ -1,3 +1,19 @@
+What I'm leanring:
+ - Java for Robots and Android apps
+ - Python
+ - Miscellaneous programming concepts
+
+What I'm working on right now:
+ - Python Crash Course 3rd Edition
+ - Bunyip Bellower
+ - Finding an interesting side project
+ - Some miscellaneous courses
+
+What I'm playing:
+ - Yakuza 5
+ - Tears of The Kingdom
+ - Street Fighter Third Strike
+
 My favourite games and series:
  ```
 👊  The Yakuza/Like A Dragon series

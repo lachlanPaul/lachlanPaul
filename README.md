@@ -13,6 +13,7 @@ What I'm playing:
  - Yakuza 5
  - Tears of The Kingdom
  - Street Fighter Third Strike
+ - Street Fighter 6 Demo because I have no money :(
 
 My favourite games and series:
  ```

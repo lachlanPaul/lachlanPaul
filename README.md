@@ -5,9 +5,9 @@ What I'm leanring:
 
 What I'm working on right now:
  - Python Crash Course 3rd Edition
+ - CS50P
  - Bunyip Bellower
  - Finding an interesting side project
- - Some miscellaneous courses
 
 What I'm playing:
  - Yakuza 5

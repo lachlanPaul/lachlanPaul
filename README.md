@@ -11,6 +11,7 @@ What I'm working on right now:
 
 What I've achieved:
  - Co-Winner of the Student & Education Solution catergory for the SA/NT iAwards 2023
+ - Co-Reciepient of Merit Award in the Student & Education Solution catergory for the Australian National iAwards 2023
  - Programmed several robots for FTC that have worked successfully and placed well in competitions
 
 What I'm playing:

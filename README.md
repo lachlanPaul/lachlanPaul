@@ -6,7 +6,6 @@ What I'm leanring:
 What I'm working on right now:
  - Python Crash Course 3rd Edition
  - CS50P
- - Bunyip Bellower
  - Finding an interesting side project
 
 What I've achieved:
@@ -16,7 +15,6 @@ What I've achieved:
 
 What I'm playing:
  - Yakuza 5
- - Tears of The Kingdom
  - Ultra Street Fighter IV
  - Street Fighter 6 Demo because I have no money :(
 

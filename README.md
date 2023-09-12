@@ -1,4 +1,4 @@
-What I'm leanring:
+What I'm learning:
  - Java + Kotlin for Robots and Android apps
  - Python
  - Miscellaneous programming concepts

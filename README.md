@@ -14,11 +14,6 @@ What I've achieved:
    - Co-Recipient of Merit Award in the Student & Education Solution category for the Australian National iAwards 2023
  - Programmed several robots for FTC that have worked successfully and placed well in competitions
 
-What I'm playing:
- - Yakuza 5
- - Ultra Street Fighter IV
- - Street Fighter 6 Demo because I have no money :(
-
 My favourite games and series:
  ```
 👊  The Yakuza/Like A Dragon series

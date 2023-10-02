@@ -28,5 +28,6 @@ My favourite games and series:
         Breath of The Wild
         Tears of The Kingdom
 🤼  Street Fighter III: Third Strike
+🤼  Street Fighter 6
 ⚖️  Phoenix Wright: Ace Attorney Trilogy
 ```

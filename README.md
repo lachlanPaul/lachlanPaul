@@ -3,11 +3,6 @@ What I'm learning:
  - Python
  - Miscellaneous programming concepts
 
-What I'm working on right now:
- - Python Crash Course 3rd Edition
- - CS50P
- - Finding an interesting side project
-
 What I've achieved:
  - The [Bunyip Bellower](https://github.com/Murray-Bridge-Bunyips/BunyipBellower) project, a school approved, safety focussed chatapp which has made me:
    - Co-Winner of the Student & Education Solution category for the SA/NT iAwards 2023

@@ -1,6 +1,9 @@
+[![wakatime](https://wakatime.com/badge/user/018bf0d3-757d-4eda-b20a-85f8e445b8ef.svg)](https://wakatime.com/@018bf0d3-757d-4eda-b20a-85f8e445b8ef)
+
 What I'm learning:
- - Java + Kotlin for Robots and Android apps
+ - Java 
  - Python
+ - OOP
  - Miscellaneous programming concepts
 
 What I've achieved:
@@ -12,16 +15,12 @@ What I've achieved:
 My favourite games and series:
  ```
 👊  The Yakuza/Like A Dragon series
+🐔  Stardew Valley
 👨‍🔬  The Half-Life Series
 🤖  The Portal Series, especially 2
 🏙  Garry's Mod
 🧟‍♂️  Left 4 Dead 2
 🏜  Fallout: New Vegas
-🧝‍♂️  The Legend of Zelda:
-        A Link to the Past
-        Ocarina of Time
-        Breath of The Wild
-        Tears of The Kingdom
 🤼  Street Fighter III: Third Strike
 🤼  Street Fighter 6
 ⚖️  Phoenix Wright: Ace Attorney Trilogy
